@@ -4,7 +4,7 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     x = 10
     y = 5
 
